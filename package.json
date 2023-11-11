@@ -1,0 +1,37 @@
+{
+  "name": "stellar-night",
+  "displayName": "Stellar Night",
+  "description": "A subtle dark theme with colorful code.",
+  "version": "0.0.1",
+  "publisher": "FCAngelo",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#262933",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "colorful",
+    "flat",
+    "rgb",
+    "stellar",
+    "night"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stellar Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/stellar-night-color-theme.json"
+      }
+    ]
+  }
+}
