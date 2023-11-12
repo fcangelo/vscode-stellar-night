@@ -1,16 +1,49 @@
-# Stellar Night README
+# Stellar Night Dark Theme
 
-## Working with Markdown
+## Description
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Stellar Night is a flat, mildly blue-shifted, dark gray theme with colorful code that aims to largely avoid whites in favor of RGB colors. There are exceptions to that rule and some default grays, but the overal goal is to make the theme bright and colorful.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This theme is visually inspired by one of my favorite themes, [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai), but is built with custom colors for both the UI and the code.
 
-## For more information
+## Screenshots
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+#### The general color scheme:
 
-**Enjoy!**
+![Color Scheme](./screenshots/color-scheme.png)
+
+#### How the color scheme looks in a variety of languages:
+
+<details>
+  <summary>HTML</summary>
+
+  ![HTML Screenshot](./screenshots/example-html.png)
+</details>
+
+<details>
+  <summary>SCSS</summary>
+
+  ![HTML Screenshot](./screenshots/example-scss.png)
+</details>
+
+<details>
+  <summary>TypeScript</summary>
+
+  ![HTML Screenshot](./screenshots/example-typescript.png)
+</details>
+
+<details>
+  <summary>Python</summary>
+
+  ![HTML Screenshot](./screenshots/example-python.png)
+</details>
+
+<details>
+  <summary>Ruby</summary>
+
+  ![HTML Screenshot](./screenshots/example-ruby.png)
+</details>
+
+## Improvements
+
+This is very much a work in progress, so please don't hesitate to [open an issue](https://github.com/fcangelo/vscode-stellar-night/issues) if something looks a bit off.

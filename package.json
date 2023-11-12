@@ -2,13 +2,20 @@
   "name": "stellar-night",
   "displayName": "Stellar Night",
   "description": "A subtle dark theme with colorful code.",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "publisher": "FCAngelo",
   "license": "MIT",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#262933",
     "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fcangelo/vscode-stellar-night"
+  },
+  "bugs": {
+    "url": "https://github.com/fcangelo/vscode-stellar-night/issues"
   },
   "engines": {
     "vscode": "^1.84.0"

@@ -1,9 +1,14 @@
-# Change Log
+# Change Log - Stellar Night VSCode Theme
 
-All notable changes to this theme will be documented in this file.
+## 0.2.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Update package.json with repo and version
+- Update README
+- Add screenshots
+- Remove quickstart guide
+- Add development notes
+- Style tweaks for TypeScript and Ruby
 
-## [Unreleased]
+## 0.1.0
 
 - Initial release

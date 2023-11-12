@@ -184,7 +184,8 @@
 		{
 			"name": "Punctuation Support",
 			"scope": [
-				"punctuation.support"
+				"punctuation.support",
+				"punctuation.section.embedded"
 			],
 			"settings": {
 				"foreground": "#f5de84"
@@ -200,10 +201,12 @@
 			}
 		},
 		{
-			"name": "Punctuation Definition Template Expression",
+			"name": "Punctuation Definition Directive Keyword",
 			"scope": [
 				"punctuation.definition.directive",
-				"punctuation.definition.keyword"
+				"punctuation.definition.keyword",
+				"punctuation.definition.variable",
+				"punctuation.decorator"
 			],
 			"settings": {
 				"foreground": "#e05a65"
