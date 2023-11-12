@@ -1,4 +1,9 @@
-# Change Log - Stellar Night VSCode Theme
+# Changelog - Stellar Night VSCode Theme
+
+## 0.2.1
+
+- Minor updates to UI colors
+- Update README description and link to changelog
 
 ## 0.2.0
 

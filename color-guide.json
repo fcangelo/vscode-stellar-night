@@ -22,5 +22,6 @@
     "lightGrayContrast0": "#b6c6f0",
     "lightGrayContrast1": "#c2d3ff",
     "lightBlueContrast0": "#98ccff",
+    "debugOrange": "#b3530b",
     "errorRed": "#ff808a"
 }

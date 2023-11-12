@@ -2,7 +2,7 @@
 
 ## Description
 
-Stellar Night is a flat, mildly blue-shifted, dark gray theme with colorful code that aims to largely avoid whites in favor of RGB colors. There are exceptions to that rule and some default grays, but the overal goal is to make the theme bright and colorful.
+Stellar Night is a flat, mildly blue-shifted, dark gray theme with colorful code that aims to largely avoid desaturated light text in favor of high vibrance colors. There are exceptions to the rule and some default grays, but the overal goal is to make the theme reasonably colorful.
 
 This theme is visually inspired by one of my favorite themes, [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai), but is built with custom colors for both the UI and the code.
 
@@ -47,3 +47,7 @@ This theme is visually inspired by one of my favorite themes, [One Monokai](http
 ## Improvements
 
 This is very much a work in progress, so please don't hesitate to [open an issue](https://github.com/fcangelo/vscode-stellar-night/issues) if something looks a bit off.
+
+## Changelog
+
+See the latest changes [here](./CHANGELOG.md).
