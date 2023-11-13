@@ -1,5 +1,9 @@
 # Changelog - Stellar Night VSCode Theme
 
+## 0.2.2
+
+- Minor improvements to html syntax highlighting
+
 ## 0.2.1
 
 - Minor updates to UI colors
